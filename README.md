@@ -22,8 +22,6 @@
 [<img align="left" alt="VKontakte" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" />][vkontakte]
 
 <br />
-<br />
-<br />
 
 [<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/lordkan/badges/large" />][codewars]
 
