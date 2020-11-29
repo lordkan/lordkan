@@ -1,7 +1,11 @@
 ## Hi there 👋
-**
+
 
 ### About me
+
+I am
+-Higher School of Economics Student
+-Software engineer
 
 ***
 ### Skills and Tools
