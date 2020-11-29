@@ -14,6 +14,6 @@
 
 ### Contacts
 
-[<img align="left" alt="CodeWars" width="26px" src="https://www.codewars.com/users/lordkan/badges/large" />] [codewars]
+[<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/lordkan/badges/large" />][codewars]
 
 [codewars] : https://www.codewars.com/users/lordkan
