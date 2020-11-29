@@ -2,10 +2,10 @@
 **
 
 ### About me
-***
 
-### Skills and Tools
 ***
+### Skills and Tools
+
 
 [<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][telegram]
 [<img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][telegram]
@@ -25,10 +25,10 @@
 
 <br />
 <br />
-<br />
+<br/>
 
-### Contacts
 ***
+### Contacts
 
 [<img align="left" alt="Outlook" width="26px" src="https://i.pinimg.com/originals/97/c4/18/97c418f388a3079c1b83959341795548.png" />][outlook]
 [<img align="left" alt="Telegram" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
